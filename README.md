@@ -12,3 +12,5 @@ The web app was built in Python using the following libraries:
 * numpy
 * scikit-learn
 * pickle
+
+**Remember to update the versions of python and packages in runtime.txt and requirements.txt
